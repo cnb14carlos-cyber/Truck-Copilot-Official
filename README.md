@@ -1,3 +1,4 @@
+download on the top ⬆️/ descargar en la parte superior ⬆️
 # 🚛 Truck Copilot
 
 Voice assistant for Euro Truck Simulator 2 and American Truck Simulator.  
@@ -54,3 +55,5 @@ The settings interface is in Spanish.
 10. Configure the speed unit, alert thresholds, volume, and speaking rate.
 11. Enable the copilot and the alerts you want.
 12. Click **Aplicar y guardar** to save your
+
+contact: carlosmodscontacts@gmail.com / contacto: carlosmodscontacts@gmail.com
