@@ -57,3 +57,5 @@ The settings interface is in Spanish.
 12. Click **Aplicar y guardar** to save your
 
 contact: carlosmodscontacts@gmail.com / contacto: carlosmodscontacts@gmail.com
+
+<img width="1536" height="1024" alt="chatgpt mod" src="https://github.com/user-attachments/assets/1744bf8f-7815-4ffa-8e13-88b6f1b8db1f" />
