@@ -1,62 +1,94 @@
-1| download on the top ⬆️/ descargar en la parte superior ⬆️
-2| # 🚛 Truck Copilot
-3| 
-4| Voice assistant for Euro Truck Simulator 2 and American Truck Simulator.  
-5| Copiloto por voz para Euro Truck Simulator 2 y American Truck Simulator.
-6| 
-7| **Version / Versión:** 0.4 · Windows x64 · Experimental
-8| 
-9| ---
-10| 
-11| ## 🇬🇧 English
-12| 
-13| Truck Copilot is a telemetry plugin that provides spoken driving alerts for ETS2 and ATS.
-14| 
-15| ### Features
-16| 
-17| - Alerts for speeding, low fuel, and truck wear/damage.
-18| - Spoken messages in Spanish, English, and German.
-19| - Selection of compatible Windows SAPI voices installed on your computer.
-20| - Configurable speed limit in km/h or mph.
-21| - Adjustable fuel threshold in litres and wear/damage threshold.
-22| - Voice volume and speaking rate controls.
-23| - Independent switches for each alert and a master switch.
-24| - External settings window opened with **Ctrl + F11**.
-25| - Separate saved settings for ETS2 and ATS.
-26| 
-27| The settings interface is in Spanish.
-28| 
-29| ### Installation
-30| 
-31| 1. **Close the game completely.**
-32| 2. Extract the plugin ZIP file.
-33| 3. Find your game's installation folder:
-34|    - Open your **Steam Library**.
-35|    - Right-click **Euro Truck Simulator 2** or **American Truck Simulator**.
-36|    - Select **Manage → Browse local files**.
-37| 4. Inside the installation folder, open:
-38| 
-39|    `bin\win_x64`
-40| 
-41| 5. Create a folder named `plugins` if it does not already exist.
-42| 6. Copy `TruckCopilot.dll` from the extracted ZIP's `dist` folder into `plugins`.
-43| 
-44|    The final location should be:
-45| 
-46|    **ETS2**
-47|    `Euro Truck Simulator 2\bin\win_x64\plugins\TruckCopilot.dll`
-48| 
-49|    **ATS**
-50|    `American Truck Simulator\bin\win_x64\plugins\TruckCopilot.dll`
-51| 
-52| 7. Start the game and accept the SDK warning if displayed.
-53| 8. Load your profile and press **Ctrl + F11**.
-54| 9. Select your preferred language and an installed voice.
-55| 10. Configure the speed unit, alert thresholds, volume, and speaking rate.
-56| 11. Enable the copilot and the alerts you want.
-57| 12. Click **Aplicar y guardar** to save your
-58| 
-59| contact: carlosmodscontacts@gmail.com / contacto: carlosmodscontacts@gmail.com
-60| 
-61| <img width="1536" height="1024" alt="chatgpt mod" src="https://github.com/user-attachments/assets/1744bf8f-7815-4ffa-8e13-88b6f1b8db1f" />
-62| 
+descargar en la parte superior ⬆️/ descargar en la parte superior ⬆️
+
+🚛 Copiloto de camión
+Asistente de voz para Euro Truck Simulator 2 y American Truck Simulator.
+Copiloto por voz para Euro Truck Simulator 2 y American Truck Simulator.
+
+Versión / Versión: 0.4 · Windows x64 · Experimental
+
+Inglés 🇬🇧
+Truck Copilot es un complemento de telemetría que proporciona alertas de conducción por voz para ETS2 y ATS.
+
+Características
+Alertas por exceso de velocidad, bajo nivel de combustible y desgaste/daños en el camión.
+Mensajes hablados en español, inglés y alemán.
+Selección de voces SAPI de Windows compatibles instaladas en su ordenador.
+Límite de velocidad configurable en km/h o mph.
+Umbral de combustible ajustable en litros y umbral de desgaste/daño.
+Controles de volumen y velocidad de habla.
+Interruptores independientes para cada alerta y un interruptor maestro.
+Ventana de configuración externa abierta con Ctrl + F11 .
+Configuraciones guardadas independientes para ETS2 y ATS.
+La interfaz de configuración está en español.
+
+Instalación
+Cierra el juego por completo.
+
+Extraiga el archivo ZIP del plugin.
+
+Encuentra la carpeta de instalación de tu juego:
+
+Abre tu biblioteca de Steam .
+Haz clic con el botón derecho en Euro Truck Simulator 2 o American Truck Simulator .
+Seleccione Administrar → Explorar archivos locales .
+Dentro de la carpeta de instalación, abra:
+
+bin\win_x64
+
+Crea una carpeta con ese nombre pluginssi aún no existe.
+
+Copiar TruckCopilot.dlldesde la carpeta del archivo ZIP extraído dista plugins.
+
+La ubicación final debe ser:
+
+ETS2 Euro Truck Simulator 2\bin\win_x64\plugins\TruckCopilot.dll
+
+ATS American Truck Simulator\bin\win_x64\plugins\TruckCopilot.dll
+
+Inicia el juego y acepta la advertencia del SDK si aparece.
+
+Carga tu perfil y pulsa Ctrl + F11 .
+
+Seleccione su idioma preferido y una voz instalada.
+
+Configure la unidad de velocidad, los umbrales de alerta, el volumen y la velocidad de habla.
+
+Habilita el copiloto y las alertas que desees.
+
+Haga clic en Aplicar y guardar para guardar su
+
+contacto: carlosmodscontacts@gmail.com / contacto: carlosmodscontacts@gmail.com
+
+logo:
+<img width="1536" height="1024" alt="chatgpt mod" src="https://github.com/user-attachments/assets/902ac6ee-e19f-420d-b1ca-dc1719e032cb" />
+
+perfile photo:
+<img width="1254" height="1254" alt="Logo circular de camiones_ Carlos ETS2   ATS" src="https://github.com/user-attachments/assets/63d02740-4ac2-4817-b081-28c15949c4c9" />
+
+udpate photo:
+<img width="1536" height="1024" alt="Actualización de Trucker Copilot 0 4" src="https://github.com/user-attachments/assets/1050bf98-b09e-4e96-8215-28a0edb7eb28" />
+
+udpate:Cambios incluidos:
+
+
+Corregido el límite: si eliges 85 km/h, avisa al superar 85, no 90.
+Avisos con datos concretos:
+- Velocidad actual y límite configurado.
+
+- Litros de combustible restantes.
+
+Frecuencia configurable entre 5 y 600 segundos.
+Atajo configurable:
+- Ctrl + F11
+
+- Ctrl + F10
+
+- Ctrl + F12
+
+Compatible con ETS2 y ATS.
+Compilada como DLL Windows x64.
+
+Sustituye la DLL anterior con el juego cerrado.
+
+
+
